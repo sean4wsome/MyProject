@@ -1,4 +1,4 @@
 # MyProject
 Remote has changed
 
-change readme to 10
+change readme to 6
